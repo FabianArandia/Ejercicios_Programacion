@@ -1,0 +1,9 @@
+﻿# Archivos de configuracion de IntelliJ
+.idea/
+*.iml
+out/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+.venv/
